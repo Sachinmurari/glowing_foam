@@ -1,0 +1,11 @@
+*.idea
+*.tmp
+*.cfg
+*.pyc
+*.log.*
+*.log
+*docs
+*tmp/
+*credentials
+*logs*
+*auth_pass
